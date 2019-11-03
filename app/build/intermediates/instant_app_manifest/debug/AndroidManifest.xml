@@ -24,6 +24,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.adifkz.utsppb.Jadwal.JadwalActivity" />
         <activity
             android:name="com.adifkz.utsppb.Mubaligh.MubalighDetail"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />

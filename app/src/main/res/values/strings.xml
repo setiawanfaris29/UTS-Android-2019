@@ -6,4 +6,21 @@
     <string name="defaultValueJumlahMasjid">0 Kegiatan ditemukan</string>
     <string name="defaultValueJumlahKhutbah">0 Materi Khutbah ditemukan</string>
     <string name="default_value_jumlah_mubaligh">0 Mubaligh ditemukan</string>
+    <string name="imsak">Imsak</string>
+    <string name="time_imsak">00:00</string>
+    <string name="subuh">Subuh</string>
+    <string name="time_subuh">00:00</string>
+    <string name="terbit">Terbit</string>
+    <string name="time_terbit">00:00</string>
+    <string name="dhuha">Dhuha</string>
+    <string name="time_dhuha">00:00</string>
+    <string name="dzhuhur">Dzhuhur</string>
+    <string name="time_dzhuhur">00:00</string>
+    <string name="asar">Ashar</string>
+    <string name="time_asar">00:00</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="time_maghrib">00:00</string>
+    <string name="isya">Isya</string>
+    <string name="time_isya">00:00</string>
+    <string name="jadwal">Jadwal Waktu Sholat</string>
 </resources>

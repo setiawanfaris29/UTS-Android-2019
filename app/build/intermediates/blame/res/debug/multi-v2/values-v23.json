@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\adyfa\\AndroidStudioProjects\\UtsPPB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/home/user/UTS-Android-2019/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\adyfa\\.gradle\\caches\\transforms-2\\files-2.1\\a92e45ec4fa68c7c4f494a840fe60d30\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/user/.gradle/caches/transforms-2/files-2.1/a92e45ec4fa68c7c4f494a840fe60d30/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\adyfa\\.gradle\\caches\\transforms-2\\files-2.1\\f9375aed1ff2f9a94abfab0855560c0a\\material-1.2.0-alpha01\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/user/.gradle/caches/transforms-2/files-2.1/f9375aed1ff2f9a94abfab0855560c0a/material-1.2.0-alpha01/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6,9,12,16,19",
                         "startColumns": "4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\adyfa\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/user/.gradle/caches/transforms-2/files-2.1/0c59e42970579c9c36ddd604ba39521e/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

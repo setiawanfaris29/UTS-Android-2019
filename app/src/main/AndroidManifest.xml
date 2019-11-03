@@ -12,9 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Jadwal.JadwalActivity"></activity>
         <activity
             android:name=".Mubaligh.MubalighDetail"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"></activity>
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity
             android:name=".Mubaligh.Mubaligh"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />

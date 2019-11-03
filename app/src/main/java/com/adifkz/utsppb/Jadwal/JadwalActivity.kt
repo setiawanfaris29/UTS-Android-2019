@@ -2,6 +2,7 @@ package com.adifkz.utsppb.Jadwal
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.adifkz.utsppb.R
 
 class JadwalActivity : AppCompatActivity() {
 

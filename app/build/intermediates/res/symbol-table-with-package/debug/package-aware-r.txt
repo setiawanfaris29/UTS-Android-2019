@@ -1412,6 +1412,7 @@ drawable ic_calendar_black_24dp
 drawable ic_clear_black_24dp
 drawable ic_download
 drawable ic_edit_black_24dp
+drawable ic_fixxx
 drawable ic_keyboard_arrow_left_black_24dp
 drawable ic_keyboard_arrow_right_black_24dp
 drawable ic_launcher_background
@@ -1856,6 +1857,7 @@ layout abc_tooltip
 layout activity_cari
 layout activity_cari_detail
 layout activity_cari_list_component
+layout activity_jadwal
 layout activity_kegiatan
 layout activity_kegiatan_detail
 layout activity_kegiatan_list_component
@@ -1966,6 +1968,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string asar
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_overflowed_content_description
@@ -1976,6 +1979,8 @@ string defaultValueJumlahKhutbah
 string defaultValueJumlahMasjid
 string default_value_jumlah_masjid
 string default_value_jumlah_mubaligh
+string dhuha
+string dzhuhur
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -1984,6 +1989,10 @@ string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string illegal_image_param
 string image_drawable_null_exception
+string imsak
+string isya
+string jadwal
+string maghrib
 string malformed_url_exception_message
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
@@ -2025,6 +2034,16 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string subuh
+string terbit
+string time_asar
+string time_dhuha
+string time_dzhuhur
+string time_imsak
+string time_isya
+string time_maghrib
+string time_subuh
+string time_terbit
 string tvHomeTitle
 string tvHomeTitleSub
 style AlertDialog_AppCompat

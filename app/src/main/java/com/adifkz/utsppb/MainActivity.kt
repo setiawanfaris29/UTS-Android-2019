@@ -10,6 +10,7 @@ import android.view.View
 import android.widget.ImageView
 import androidx.core.content.ContextCompat
 import com.adifkz.utsppb.Cari.Cari
+import com.adifkz.utsppb.Jadwal.JadwalActivity
 import com.adifkz.utsppb.Kegiatan.Kegiatan
 import com.adifkz.utsppb.Khutbah.Khutbah
 import com.adifkz.utsppb.Mubaligh.Mubaligh
@@ -34,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             cari.id->startActivity(Intent(this, Cari::class.java))
             khutbah.id->startActivity(Intent(this, Khutbah::class.java))
             mubaligh.id->startActivity(Intent(this, Mubaligh::class.java))
+            jadwal.id->startActivity(Intent(this, JadwalActivity::class.java))
         }
     }
 

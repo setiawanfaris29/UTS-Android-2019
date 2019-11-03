@@ -1,6 +1,7 @@
 package com.adifkz.utsppb.Mubaligh
 
 import android.content.Context
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -81,13 +82,19 @@ class Mubaligh : AppCompatActivity() {
         RecyclerView.Adapter<MyAdapter.MyViewHolder>() {
         inner class MyViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
             fun bindData(item: Item) {
-                view.image.setImageResource(item.image)
+                view.name.setImageResource(item.image)
                 view.nama.text = item.nama
                 view.contact.text = item.contact
                 view.setOnClickListener {
-                    //                        val nextPage = Intent(context,CariDetail::class.java)
-//                        nextPage.putExtra("id",item.id)
-//                        context.startActivity(nextPage)
+                        val nextPage = Intent(context,MubalighDetail::class.java)
+                        nextPage.putExtra("id",item.id)
+                    nextPage.putExtra("id",item.id)
+                    nextPage.putExtra("nama",item.nama)
+                    nextPage.putExtra("desc","Descripsi")
+                    nextPage.putExtra("telepon",item.contact)
+                    nextPage.putExtra("alamat","jalan" )
+                    nextPage.putExtra("image",item.image)
+                        context.startActivity(nextPage)
                 }
             }
         }

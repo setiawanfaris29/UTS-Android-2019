@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
 MERGED from [com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\f9375aed1ff2f9a94abfab0855560c0a\material-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\0c59e42970579c9c36ddd604ba39521e\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -33,33 +33,33 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adyfa\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\117237b384d1d41655b445f8ab3449a2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
 		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:4:5-97
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:4:22-78
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:5-95
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:5-43:19
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:8:5-48:19
 MERGED from [com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:14:5-19:42
 MERGED from [com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:14:5-19:42
 MERGED from [com.google.android.material:material:1.2.0-alpha01] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\f9375aed1ff2f9a94abfab0855560c0a\material-1.2.0-alpha01\AndroidManifest.xml:22:5-20
@@ -73,79 +73,85 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\5b454e4f1a30a31f78d2352c725b41cb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:11:9-41
 	tools:ignore
 		ADDED from [com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:19:9-39
 	android:roundIcon
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:14:9-40
 	android:usesCleartextTraffic
 		ADDED from [com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:18:9-44
+activity#com.adifkz.utsppb.Mubaligh.MubalighDetail
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:15:9-17:84
+	android:theme
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:16:13-52
 activity#com.adifkz.utsppb.Mubaligh.Mubaligh
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:13:9-15:84
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:18:9-20:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:15:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:20:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:14:13-46
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:19:13-46
 activity#com.adifkz.utsppb.Khutbah.Khutbah
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:16:9-18:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:21:9-23:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:18:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:23:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:17:13-44
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:22:13-44
 activity#com.adifkz.utsppb.Cari.CariDetail
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:19:9-21:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:24:9-26:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:21:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:20:13-44
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:25:13-44
 activity#com.adifkz.utsppb.Cari.Cari
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:22:9-24:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:27:9-29:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:24:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:23:13-38
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:28:13-38
 activity#com.adifkz.utsppb.Kegiatan.KegiatanDetail
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:25:9-27:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:30:9-32:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:27:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:32:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:26:13-52
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:31:13-52
 activity#com.adifkz.utsppb.Kegiatan.Kegiatan
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:28:9-30:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:33:9-35:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:30:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:35:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:29:13-46
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:34:13-46
 activity#com.adifkz.utsppb.Profile.Profile
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:31:9-33:75
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:36:9-38:75
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:33:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:32:13-44
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:37:13-44
 activity#com.adifkz.utsppb.MainActivity
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:34:9-42:20
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:39:9-47:20
 	android:theme
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:36:13-72
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:35:13-41
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:42:13-46:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:45:27-74
 uses-sdk
 INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml

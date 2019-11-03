@@ -1604,7 +1604,6 @@ id icon
 id icon_group
 id ifRoom
 id image
-id imageView
 id info
 id interiorTabLayout
 id invisible
@@ -1659,6 +1658,7 @@ id mtrl_picker_title_text
 id mubaligh
 id multiply
 id nama
+id name
 id navigation_header_container
 id never
 id noScroll
@@ -1720,6 +1720,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spesifikasi
 id split_action_bar
 id spread
 id spread_inside
@@ -1741,6 +1742,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id telepon
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id text
@@ -1750,11 +1752,16 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
+id textView12
+id textView13
+id textView14
+id textView16
 id textView2
-id textView3
 id textView4
-id textView5
 id textView6
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1856,6 +1863,7 @@ layout activity_khutbah
 layout activity_khutbah_list_component
 layout activity_main
 layout activity_mubaligh
+layout activity_mubaligh_detail
 layout activity_mubaligh_list_component
 layout activity_profile
 layout custom_dialog

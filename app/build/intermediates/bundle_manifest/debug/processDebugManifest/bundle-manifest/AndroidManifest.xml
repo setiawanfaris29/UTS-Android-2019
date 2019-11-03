@@ -24,6 +24,9 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.adifkz.utsppb.Mubaligh.MubalighDetail"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
             android:name="com.adifkz.utsppb.Mubaligh.Mubaligh"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity

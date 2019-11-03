@@ -12,9 +12,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.adifkz.utsppb.R
 import kotlinx.android.synthetic.main.activity_cari.*
 import kotlinx.android.synthetic.main.activity_cari_list_component.view.*
+import java.io.Serializable
 
 class Cari : AppCompatActivity() {
-    data class Item(val alamat: String, val nama: String, val image: Int, val id: String)
+    data class Item(val alamat: String, val nama: String, val image: Int, val id: String):Serializable
 
     private lateinit var recyclerView: RecyclerView
     private lateinit var viewAdapter: RecyclerView.Adapter<*>
@@ -32,6 +33,11 @@ class Cari : AppCompatActivity() {
     fun setToolbar() {
         setSupportActionBar(toolbar);
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
+    }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 
     fun initialMyDataSet(){
@@ -85,7 +91,8 @@ class Cari : AppCompatActivity() {
                 view.alamat.text = item.alamat
                 view.setOnClickListener {
                     val nextPage = Intent(context, CariDetail::class.java)
-                    nextPage.putExtra("id",item.id)
+                    nextPage.putExtra("data",item)
+
                     context.startActivity(nextPage)
                 }
 //                view.findViewById<TextView>(R.id.date).text = item.date

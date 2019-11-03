@@ -11,94 +11,100 @@
 9-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-11-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:4:5-97
-11-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:4:22-78
+11-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:22-78
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:5-95
-12-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:5:22-76
+12-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.INTERNET" />
 13-->[com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:12:5-67
 13-->[com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:12:22-64
 14
 15    <application
-15-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:6:5-43:19
+15-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:8:5-48:19
 16        android:allowBackup="true"
-16-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:7:9-35
+16-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:9:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 17-->[androidx.core:core:1.1.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\5b454e4f1a30a31f78d2352c725b41cb\core-1.1.0\AndroidManifest.xml:24:18-86
 18        android:debuggable="true"
 19        android:icon="@mipmap/ic_launcher"
-19-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:8:9-43
+19-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:10:9-43
 20        android:label="@string/app_name"
-20-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:9:9-41
+20-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:11:9-41
 21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:10:9-54
+21-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:12:9-54
 22        android:supportsRtl="true"
-22-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:11:9-35
+22-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:13:9-35
 23        android:testOnly="true"
 24        android:theme="@style/AppTheme"
-24-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:12:9-40
+24-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:14:9-40
 25        android:usesCleartextTraffic="true" >
 25-->[com.github.therealshabi:AutoImageFlipper:1.6.0] C:\Users\adyfa\.gradle\caches\transforms-2\files-2.1\9b9eaf72c594c0008140fdc34f5f92f6\AutoImageFlipper-1.6.0\AndroidManifest.xml:18:9-44
 26        <activity
-26-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:13:9-15:84
-27            android:name="com.adifkz.utsppb.Mubaligh.Mubaligh"
-27-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:14:13-46
+26-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:15:9-17:84
+27            android:name="com.adifkz.utsppb.Mubaligh.MubalighDetail"
+27-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:16:13-52
 28            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-28-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:15:13-72
+28-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:17:13-72
 29        <activity
-29-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:16:9-18:75
-30            android:name="com.adifkz.utsppb.Khutbah.Khutbah"
-30-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:17:13-44
+29-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:18:9-20:75
+30            android:name="com.adifkz.utsppb.Mubaligh.Mubaligh"
+30-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:19:13-46
 31            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-31-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:18:13-72
+31-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:20:13-72
 32        <activity
-32-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:19:9-21:75
-33            android:name="com.adifkz.utsppb.Cari.CariDetail"
-33-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:20:13-44
+32-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:21:9-23:75
+33            android:name="com.adifkz.utsppb.Khutbah.Khutbah"
+33-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:22:13-44
 34            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-34-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:21:13-72
+34-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:23:13-72
 35        <activity
-35-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:22:9-24:75
-36            android:name="com.adifkz.utsppb.Cari.Cari"
-36-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:23:13-38
+35-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:24:9-26:75
+36            android:name="com.adifkz.utsppb.Cari.CariDetail"
+36-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:25:13-44
 37            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-37-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:24:13-72
+37-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:26:13-72
 38        <activity
-38-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:25:9-27:75
-39            android:name="com.adifkz.utsppb.Kegiatan.KegiatanDetail"
-39-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:26:13-52
+38-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:27:9-29:75
+39            android:name="com.adifkz.utsppb.Cari.Cari"
+39-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:28:13-38
 40            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-40-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:27:13-72
+40-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:29:13-72
 41        <activity
-41-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:28:9-30:75
-42            android:name="com.adifkz.utsppb.Kegiatan.Kegiatan"
-42-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:29:13-46
+41-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:30:9-32:75
+42            android:name="com.adifkz.utsppb.Kegiatan.KegiatanDetail"
+42-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:31:13-52
 43            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-43-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:30:13-72
+43-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:32:13-72
 44        <activity
-44-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:31:9-33:75
-45            android:name="com.adifkz.utsppb.Profile.Profile"
-45-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:32:13-44
+44-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:33:9-35:75
+45            android:name="com.adifkz.utsppb.Kegiatan.Kegiatan"
+45-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:34:13-46
 46            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-46-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:33:13-72
+46-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:35:13-72
 47        <activity
-47-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:34:9-42:20
-48            android:name="com.adifkz.utsppb.MainActivity"
-48-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:35:13-41
-49            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-49-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:36:13-72
-50            <intent-filter>
-50-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:37:13-41:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:17-69
-51-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:25-66
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:17-77
-53-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:27-74
-54            </intent-filter>
-55        </activity>
-56    </application>
-57
-58</manifest>
+47-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:36:9-38:75
+48            android:name="com.adifkz.utsppb.Profile.Profile"
+48-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:37:13-44
+49            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+49-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:38:13-72
+50        <activity
+50-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:39:9-47:20
+51            android:name="com.adifkz.utsppb.MainActivity"
+51-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:40:13-41
+52            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+52-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:41:13-72
+53            <intent-filter>
+53-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:42:13-46:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:43:17-69
+54-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:43:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:45:17-77
+56-->C:\Users\adyfa\AndroidStudioProjects\UtsPPB\app\src\main\AndroidManifest.xml:45:27-74
+57            </intent-filter>
+58        </activity>
+59    </application>
+60
+61</manifest>

@@ -736,6 +736,10 @@
         "source": "C:\\Users\\adyfa\\.gradle\\caches\\transforms-2\\files-2.1\\f9375aed1ff2f9a94abfab0855560c0a\\material-1.2.0-alpha01\\res\\layout\\test_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\adyfa\\AndroidStudioProjects\\UtsPPB\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mubaligh_detail.xml.flat",
+        "source": "C:\\Users\\adyfa\\AndroidStudioProjects\\UtsPPB\\app\\src\\main\\res\\layout\\activity_mubaligh_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\adyfa\\AndroidStudioProjects\\UtsPPB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\adyfa\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },

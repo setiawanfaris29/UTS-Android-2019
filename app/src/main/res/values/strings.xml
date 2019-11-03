@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Uts PPB</string>
+    <string name="tvHomeTitle">Dewan Masjid Indonesia</string>
+    <string name="tvHomeTitleSub">Kota Semarang</string>
+    <string name="default_value_jumlah_masjid"><![CDATA[0 Masjid Terdekat < 2KM]]></string>
+    <string name="defaultValueJumlahMasjid">0 Kegiatan ditemukan</string>
+    <string name="defaultValueJumlahKhutbah">0 Materi Khutbah ditemukan</string>
+    <string name="default_value_jumlah_mubaligh">0 Mubaligh ditemukan</string>
+</resources>
